@@ -5,3 +5,6 @@
 qli lai ci yi you hahaha
 zhangsan lai ci yi you
 =====================fix bug........
+
+
+我整修新增一个fun
