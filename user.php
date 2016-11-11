@@ -1,2 +1,4 @@
 <?php
-class User{}
+class User{
+ i am issue-101
+}
